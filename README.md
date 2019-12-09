@@ -11,9 +11,7 @@
 
 > Git & GitHub - Partie 2 Activité
 
-### 🏠 [Homepage](Exercice Openclassroom sur Git)
-
-### ✨ [Demo](https://github.com/NajwaR/Git_Certification.git)
+### 🏠 [Homepage](https://github.com/NajwaR/Git_Certification.git)
 
 ## Install
 
