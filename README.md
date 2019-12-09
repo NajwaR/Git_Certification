@@ -13,6 +13,18 @@
 
 ### 🏠 [Homepage](https://github.com/NajwaR/Git_Certification.git)
 
+## Présentation 
+
+Sur ce GIT vous allez retrouver : 
+
+o	Un chonometre 
+o	Une Page Web 
+o	Deux fichiers README « md & txt »
+`
+Le but de ce projet étant de modifier les fichiers de base.
+Puis effectué 4 commit ou plus avec des modifications distinctes et détaillées selon les modifications 
+ 
+
 ## Install
 
 ```sh
