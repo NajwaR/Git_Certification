@@ -8,7 +8,7 @@ do
     min=$(((courant-ref)/60))
     sec=$(((courant-ref)%60))
     ms="$min:$sec"
-    echo -en "sec\r$ms"
+	echo -en "\r$ms"
     read -t1 -n1 t 
 done
 echo
