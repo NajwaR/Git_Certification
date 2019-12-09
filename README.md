@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Git_Certification 👋</h1>
+<h1 align="center">Bienvenue sur Git_Certification 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NajwaR/Git_Certification.git/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -32,11 +32,5 @@ git statut
 👤 **Andy BOTOVELO**
 
 * Github: [@NajwaR](https://github.com/NajwaR)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/andyboto\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/andyboto\/)
+* LinkedIn: [@https:](https://www.linkedin.com\/in\/andyboto\)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
