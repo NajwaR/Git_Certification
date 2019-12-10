@@ -21,7 +21,7 @@ Sur ce GIT vous allez retrouver :
 - Une Page Web
 - Deux fichiers README « md & txt »
 `
-Le but de ce projet étant de modifier les fichiers de base.
+Le but de ce projet Openclassroom étant de modifier les fichiers de base.
 Puis effectué 4 commit ou plus avec des modifications distinctes et détaillées selon les modifications 
  
 
