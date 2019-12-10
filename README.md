@@ -42,5 +42,5 @@ git statut
 👤 **Andy BOTOVELO**
 
 * Github: [@NajwaR](https://github.com/NajwaR)
-* LinkedIn: [@https:](https://www.linkedin.com\/in\/andyboto\)
+* LinkedIn: [@andyboto](https://www.linkedin.com/in/andyboto/)
 
