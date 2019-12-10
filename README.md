@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue sur Git_Certification 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.9-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.9.2-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NajwaR/Git_Certification.git/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -20,7 +20,7 @@ Sur ce GIT vous allez retrouver :
 - Un chonometre
 - Une Page Web
 - Deux fichiers README « md & txt »
-`
+
 Le but de ce projet Openclassroom étant de modifier les fichiers de base.
 Puis effectué 4 commit ou plus avec des modifications distinctes et détaillées selon les modifications 
  
